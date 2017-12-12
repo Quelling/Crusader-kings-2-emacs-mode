@@ -1,2 +1,2 @@
 # Crusader-kings-2-emacs-mode
-https://i.imgur.com/nfoyaLm.png
+![preview](https://i.imgur.com/nfoyaLm.png)
